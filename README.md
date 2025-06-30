@@ -33,17 +33,29 @@ Sou um desenvolvedor **Fullstack** apaixonado por transformar ideias em soluçõ
 
 ## 🧩 Projetos em destaque
 
-| Projeto | Descrição |
-|--------|-----------|
-| [🎬 Vicuna Cine](https://github.com/eduardoSantana-dev/vicuna-cine-flask) | Plataforma de filmes e séries com login, trailers, integração com API, perfis, favoritos e muito mais. |
-| [💬 Exemplo de outro projeto](https://github.com/seuprojeto) | Breve descrição do que o projeto faz. |
-| [📱 App Mobile React Native](https://github.com/seuapp) | Aplicativo feito em React Native com login, autenticação e interface nativa. |
+### 🎬 Vicuna Cine
+
+<a href="https://github.com/eduardoSantana-dev/vicuna-cine-flask">
+  <img src="https://github.com/eduardoSantana-dev/vicuna-cine-flask/blob/main/static/assets/capa.gif?raw=true" width="500" alt="Capa Vicuna Cine"/>
+</a>
+
+Plataforma de filmes e séries com login, trailers, integração com API, perfis, favoritos e muito mais.
+
+
+
+### 🧢 Vicuna Street
+
+<a href="https://github.com/eduardoSantana-dev/vicuna-street">
+  <img src="https://github.com/eduardoSantana-dev/vicuna-street/blob/main/img/imgsProjeto/vicuna-capa.gif?raw=true" width="500" alt="Capa Vicuna Street"/>
+</a>
+
+Loja virtual de roupas e tênis streetwear com painel administrativo, login e sistema de gerenciamento de produtos. Feito em PHP, HTML, CSS e JS
 
 
 ## 📬 Contato
 
 - [LinkedIn](https://www.linkedin.com/in/seuperfil)  
-- ✉️ eduardo.santana07b@gmail.com *(edite com seu real)*
+- ✉️ eduardo.santana07b@gmail.com
 
 ---
 
