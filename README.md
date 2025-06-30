@@ -32,26 +32,26 @@ Sou um desenvolvedor **Fullstack** apaixonado por transformar ideias em soluçõ
 ---
 
 ## 🧩 Projetos em destaque
-
-### 🎬 Vicuna Cine
-
-<a href="https://github.com/eduardoSantana-dev/vicuna-cine-flask">
-  <img src="https://github.com/eduardoSantana-dev/vicuna-cine-flask/blob/main/static/assets/capa.gif?raw=true" width="500" alt="Capa Vicuna Cine"/>
-</a>
-
-Plataforma de filmes e séries com login, trailers, integração com API, perfis, favoritos e muito mais.
-
-
-
-### 🧢 Vicuna Street
-
-<a href="https://github.com/eduardoSantana-dev/vicuna-street">
-  <img src="https://github.com/eduardoSantana-dev/vicuna-street/blob/main/img/imgsProjeto/vicuna-capa.gif?raw=true" width="500" alt="Capa Vicuna Street"/>
-</a>
-
-Loja virtual de roupas e tênis streetwear com painel administrativo, login e sistema de gerenciamento de produtos. Feito em PHP, HTML, CSS e JS
-
-
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/eduardoSantana-dev/vicuna-cine-flask">
+        <img src="https://github.com/eduardoSantana-dev/vicuna-cine-flask/blob/main/static/assets/capa.gif?raw=true" width="300" alt="Vicuna Cine" />
+      </a>
+      <br/>
+      <b>🎬 Vicuna Cine</b>
+      <p>Plataforma de filmes e séries com login, trailers, integração com API, perfis, favoritos e muito mais.</p>
+    </td>
+    <td align="center">
+      <a href="https://github.com/eduardoSantana-dev/vicuna-street">
+        <img src="https://github.com/eduardoSantana-dev/vicuna-street/blob/main/img/imgsProjeto/vicuna-capa.gif?raw=true" width="300" alt="Vicuna Street" />
+      </a>
+      <br/>
+      <b>🧢 Vicuna Street</b>
+      <p>Loja virtual streetwear com painel administrativo, login e sistema de gerenciamento de produtos.</p>
+    </td>
+  </tr>
+</table>
 ## 📬 Contato
 
 - [LinkedIn](https://www.linkedin.com/in/seuperfil)  
