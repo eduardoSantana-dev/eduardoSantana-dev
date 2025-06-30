@@ -51,11 +51,14 @@ Sou um desenvolvedor **Fullstack** apaixonado por transformar ideias em soluçõ
       <p>Loja virtual streetwear com painel administrativo, login e sistema de gerenciamento de produtos.</p>
     </td>
   </tr>
-</table>
+</table
+
+---
+
 ## 📬 Contato
 
-- [LinkedIn](https://www.linkedin.com/in/seuperfil)  
-- ✉️ eduardo.santana07b@gmail.com
+- 📧 E-mail: [eduardo.santana07b@gmail.com](mailto:eduardo.santana07b@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/seuperfil](https://www.linkedin.com/in/seuperfil)
 
 ---
 
