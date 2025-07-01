@@ -58,7 +58,7 @@ Sou um desenvolvedor **Fullstack** apaixonado por transformar ideias em soluçõ
 ## 📬 Contato
 
 - 📧 E-mail: [eduardo.santana07b@gmail.com](mailto:eduardo.santana07b@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/seuperfil](https://www.linkedin.com/in/seuperfil)
+- 💼 LinkedIn: [linkedin.com/in/eduardo-santana-santos](www.linkedin.com/in/eduardo-santana-santos)
 
 ---
 
